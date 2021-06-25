@@ -1,0 +1,1 @@
+please use pyinstaller, it's the standard now.the command is 'pyinstaller -f script.py' to compile a simple script into an exe
